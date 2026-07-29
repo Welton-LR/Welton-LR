@@ -9,7 +9,7 @@ Atualmente trabalho na **RSS Digital**, desenvolvendo landing pages responsivas,
 Tenho grande interesse em **Front-end**, **UX/UI**, **Performance Web** e **Acessibilidade**, buscando sempre escrever código limpo e construir interfaces rápidas, intuitivas e responsivas.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <a href="https://www.linkedin.com/in/welton-l-rodrigues-903b05222/">
         <img
             alt="LinkedIn"
             title="Meu LinkedIn"
@@ -17,7 +17,7 @@ Tenho grande interesse em **Front-end**, **UX/UI**, **Performance Web** e **Aces
         />
     </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:weltonrdesigner@gmail.com">
 <img
 alt="Email"
 title="Entre em contato"

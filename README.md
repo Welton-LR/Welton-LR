@@ -142,15 +142,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg
 <p>
 
 <img
-align="left"
 height="180"
 src="https://github-readme-stats.vercel.app/api?username=Welton-LR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
 <img
-align="left"
 height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welton-LR&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welton-LR&layout=compact&theme=tokyonight"
 />
 
 </p>

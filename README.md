@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Welton Rodrigues
+# Olá, eu sou o Welton Rodrigues
 
 ### Front-end Developer • UI Designer
 
@@ -43,38 +43,6 @@ Desenvolvendo interfaces modernas, responsivas e focadas na experiência do usu�
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,git,github,figma,vscode"/>
 
 </p>
-
----
-
-## 📈 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Welton-LR&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welton-LR&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Welton-LR&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Profile Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Welton-LR&theme=darkhub&no-frame=true&margin-w=15&row=1"/>
-
-</div>
 
 ---
 
@@ -126,10 +94,3 @@ Desenvolvendo interfaces modernas, responsivas e focadas na experiência do usu�
 
 </p>
 
----
-
-<div align="center">
-
-> *"Design e desenvolvimento caminham juntos para criar experiências digitais memoráveis."*
-
-</div>

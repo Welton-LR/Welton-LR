@@ -70,7 +70,7 @@ Desenvolvendo interfaces modernas, rápidas e responsivas, unindo código, desig
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Welton-LR&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -112,9 +112,7 @@ Desenvolvendo interfaces modernas, rápidas e responsivas, unindo código, desig
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Welton_Rodrigues-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/SEU-LINKEDIN)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Acessar-black?style=for-the-badge)](https://SEU-PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Welton_Rodrigues-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/welton-l-rodrigues-903b05222/)
 
 </div>
 

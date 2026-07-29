@@ -1,126 +1,184 @@
-```md
-<div align="center">
+# 👨🏻‍💻 Welton Rodrigues
 
-# 👋 Olá! Eu sou o Welton Rodrigues
+**`Front-end Developer`**
 
-### Front-end Developer • UI Designer • Landing Page Specialist
+Me chamo **Welton Rodrigues** e sou desenvolvedor Front-end, formado em **Análise e Desenvolvimento de Sistemas**.
+
+Atualmente trabalho na **RSS Digital**, desenvolvendo landing pages responsivas, interfaces modernas e soluções para marketing digital. Também possuo mais de **7 anos de experiência como Designer Gráfico**, unindo design e desenvolvimento para criar experiências digitais de alta qualidade.
+
+Tenho grande interesse em **Front-end**, **UX/UI**, **Performance Web** e **Acessibilidade**, buscando sempre escrever código limpo e construir interfaces rápidas, intuitivas e responsivas.
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+        <img
+            alt="LinkedIn"
+            title="Meu LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+
+<a href="mailto:SEU_EMAIL">
+<img
+alt="Email"
+title="Entre em contato"
+src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+/>
+</a>
+
+<a href="https://github.com/Welton-LR?tab=followers">
+<img
+alt="Seguidores"
+title="Me siga no GitHub"
+src="https://custom-icon-badges.demolab.com/github/followers/Welton-LR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+/>
+</a>
+
+<a href="https://github.com/Welton-LR?tab=repositories">
+<img
+alt="Repositórios"
+title="Meus projetos"
+src="https://custom-icon-badges.demolab.com/badge/Projetos-GitHub-181717?style=for-the-badge&logo=repo&logoColor=white"
+/>
+</a>
+
+</p>
+
+---
+
+## 🤖 Linguagens e Tecnologias
+
+<p align="left">
+
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+/>
+
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="30px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+/>
+
+<img
+align="left"
+alt="JavaScript"
+title="JavaScript"
+width="30px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+/>
+
+<img
+align="left"
+alt="TypeScript"
+title="TypeScript"
+width="30px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+/>
+
+<img
+align="left"
+alt="Angular"
+title="Angular"
+width="30px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+/>
+
+<img
+align="left"
+alt="Bootstrap"
+title="Bootstrap"
+width="30px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+/>
+
+<img
+align="left"
+alt="Git"
+title="Git"
+width="30px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+/>
+
+<img
+align="left"
+alt="GitHub"
+title="GitHub"
+width="30px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+/>
+
+<img
+align="left"
+alt="Figma"
+title="Figma"
+width="30px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+/>
+
+</p>
+
+<br/>
+<br/>
+
+---
+
+## 📊 Estatísticas
 
 <p>
-Desenvolvendo interfaces modernas, rápidas e responsivas, unindo código, design e experiência do usuário.
-</p>
 
-<p>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img
+align="left"
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=Welton-LR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
 
-<a href="https://SEU-PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:SEUEMAIL@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img
+align="left"
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welton-LR&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+/>
 
 </p>
 
-</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
-# 💻 Sobre mim
+## 🚀 Atualmente estudando
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-
-💼 Desenvolvedor Front-end na **RSS Digital**
-
-🎨 Mais de **7 anos de experiência** como Designer Gráfico
-
-🚀 Desenvolvimento de Landing Pages de alta conversão
-
-📱 Interfaces responsivas e acessíveis
-
-⚡ Performance, SEO e UX/UI
+- Angular
+- TypeScript
+- APIs REST
+- Performance Web
+- UX/UI
+- SEO
+- Acessibilidade
+- Git e GitHub
 
 ---
 
-# 🚀 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,git,github,figma,vscode"/>
-
-</p>
-
----
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Welton-LR&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📌 Atualmente
-
-- 📚 Estudando Angular e TypeScript
-- 🌐 Criando Landing Pages de alta performance
-- 🎯 Aprimorando conhecimentos em APIs REST
-- ♿ Boas práticas de acessibilidade
-- ⚡ Core Web Vitals e otimização de performance
-
----
-
-# 🎯 Objetivos
-
-✔ Desenvolver aplicações Front-end modernas
-
-✔ Criar interfaces intuitivas e acessíveis
-
-✔ Evoluir constantemente como desenvolvedor
-
-✔ Compartilhar projetos e conhecimento
-
----
-
-# 🛠 Ferramentas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,photoshop"/>
-
-</p>
-
----
-
-# 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Welton_Rodrigues-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/welton-l-rodrigues-903b05222/)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Transformando ideias em interfaces modernas através do design e da tecnologia."
-
-</div>
-```
+> *"Design e desenvolvimento caminham juntos para criar experiências digitais memoráveis."*

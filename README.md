@@ -58,7 +58,7 @@ Desenvolvendo interfaces modernas, responsivas e focadas na experiência do usu�
 
 ## 📚 Atualmente estudando
 
-- Angular
+- React
 - TypeScript
 - APIs REST
 - Performance Web
@@ -74,7 +74,7 @@ Desenvolvendo interfaces modernas, responsivas e focadas na experiência do usu�
 
 🔹 Interfaces modernas com HTML, CSS e JavaScript
 
-🔹 Projetos utilizando Angular
+🔹 Projetos utilizando React
 
 🔹 Estudos de APIs REST
 

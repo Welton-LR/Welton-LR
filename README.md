@@ -40,7 +40,7 @@ Desenvolvendo interfaces modernas, responsivas e focadas na experiÃªncia do usuÃ
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,git,github,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,git,github,figma,vscode"/>
 
 </p>
 
